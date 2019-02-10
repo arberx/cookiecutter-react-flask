@@ -35,9 +35,17 @@ Inspired from [this](https://codeburst.io/creating-a-full-stack-web-application-
 2. Install python packages, and node packages:
    * `pip3.6 install -e .`
    * `npm install .`
+    
+    or, use make:
+
+    * `make install`
 
 3. Run script located in the `app_name/bin` directory: 
    * `./app_name/bin/app_namerun.sh`
+  
+    with make:
+
+    * `make run`
 
 Head over to `localhost:8000`, you should see: **Hi! From cookiecutter-flask-react**
 
