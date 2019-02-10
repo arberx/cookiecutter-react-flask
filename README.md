@@ -11,6 +11,7 @@ Inspired from [this](https://codeburst.io/creating-a-full-stack-web-application-
 #
 * python3.6 (are any python3+ version, just make sure to modify the below commands.)
 * node
+* npm
 * `cookiecutter`
 
 ### Setup
