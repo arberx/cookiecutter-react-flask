@@ -9,7 +9,7 @@ Inspired from [this](https://codeburst.io/creating-a-full-stack-web-application-
 
 ### Prerequisites
 #
-* python3.6 (are any python3+ version, just make sure to modify the below commands.)
+* python3.6 (or any python3+ version, just make sure to modify the below commands.)
 * node
 * npm
 * cookiecutter
